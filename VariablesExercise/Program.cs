@@ -14,3 +14,7 @@ Console.WriteLine($"Middle Initial: {middleInitial}");
 Console.WriteLine($"Married: {isMarried}");
 Console.WriteLine($"Height: {height}");
 Console.WriteLine($"Weight: {weight}");
+
+
+
+Console.WriteLine($"Name: {name}\nAge: {age}\nMiddle Initial: {middleInitial}\nMarried: {isMarried}\nHeight: {height}\nWeight: {weight}");
